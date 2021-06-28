@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TubesKontruksi", "TubesKontruksi.csproj", "{09E5F5DB-6F8F-4799-9038-7888BA22D29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E5F5DB-6F8F-4799-9038-7888BA22D29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E5F5DB-6F8F-4799-9038-7888BA22D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E5F5DB-6F8F-4799-9038-7888BA22D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E5F5DB-6F8F-4799-9038-7888BA22D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A88AA5D-67B0-413B-9C43-C27D8ACBE535}
+	EndGlobalSection
+EndGlobal
