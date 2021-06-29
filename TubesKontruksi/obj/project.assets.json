@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\1. TUBES\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj",
+      "projectUniqueName": "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj",
       "projectName": "TubesKontruksi",
-      "projectPath": "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\1. TUBES\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\1. TUBES\\TubelKPL\\TubesKontruksi\\obj\\",
+      "projectPath": "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

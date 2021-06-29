@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\HISTORY\\HISTORY\\HISTORY.csproj": {}
   },
   "projects": {
-    "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\HISTORY\\HISTORY\\HISTORY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj",
-        "projectName": "TubesKontruksi",
-        "projectPath": "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\TubesKontruksi.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\HISTORY\\HISTORY\\HISTORY.csproj",
+        "projectName": "HISTORY",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\HISTORY\\HISTORY\\HISTORY.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\KPL NI BOS\\TubelKPL\\TubesKontruksi\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\HISTORY\\HISTORY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
