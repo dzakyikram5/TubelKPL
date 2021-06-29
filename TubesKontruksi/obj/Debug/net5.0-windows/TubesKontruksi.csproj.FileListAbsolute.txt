@@ -17,3 +17,22 @@ D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\1. TUBES\TubelKPL\TubesKontruksi\obj\D
 D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\1. TUBES\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\ref\TubesKontruksi.dll
 D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\1. TUBES\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.pdb
 D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\1. TUBES\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.genruntimeconfig.cache
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\TubesKontruksi.exe
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\TubesKontruksi.deps.json
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\TubesKontruksi.runtimeconfig.json
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\TubesKontruksi.runtimeconfig.dev.json
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\TubesKontruksi.dll
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\ref\TubesKontruksi.dll
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\bin\Debug\net5.0-windows\TubesKontruksi.pdb
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.csprojAssemblyReference.cache
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.Form1.resources
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.Login.resources
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.csproj.GenerateResource.cache
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.AssemblyInfoInputs.cache
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.AssemblyInfo.cs
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.csproj.CoreCompileInputs.cache
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.dll
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\ref\TubesKontruksi.dll
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.pdb
+D:\KPL NI BOS\TubelKPL\TubesKontruksi\obj\Debug\net5.0-windows\TubesKontruksi.genruntimeconfig.cache
